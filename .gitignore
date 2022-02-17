@@ -1,0 +1,6 @@
+node_modules/
+uploads/
+nodemon.json
+*.txt
+db-heroku.session.sql
+procfile
